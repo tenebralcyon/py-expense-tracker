@@ -1,0 +1,9 @@
+Total for 2026-01: $2066.24
+
+By category:
+  rent         $1800.00   (budget $1800.00, remaining $0.00 -> OK)
+  utilities    $120.00   (budget $250.00, remaining $130.00 -> OK)
+  transport    $52.99   (budget $150.00, remaining $97.01 -> OK)
+  shopping     $39.20   (budget $300.00, remaining $260.80 -> OK)
+  groceries    $32.10   (budget $400.00, remaining $367.90 -> OK)
+  food         $21.95   (budget $200.00, remaining $178.05 -> OK)

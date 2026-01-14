@@ -1,0 +1,11 @@
+ID  Date        Amount    Category    Note
+--  ----------  --------  ----------  ----
+9   2026-01-15     45.00  transport   Uber Eats dinner
+8   2026-01-12      9.50  food        Starbucks snack
+7   2026-01-12    120.00  utilities   BC Hydro electricity bill
+6   2026-01-10     32.10  groceries   Whole Foods groceries
+5   2026-01-06    -15.00  shopping    Amazon refund
+4   2026-01-05   1800.00  rent        Rent payment January
+3   2026-01-03      7.99  transport   UBER trip downtown
+2   2026-01-03     54.20  shopping    Amazon Marketplace order
+1   2026-01-02     12.45  food        Starbucks coffee

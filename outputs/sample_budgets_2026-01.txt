@@ -1,0 +1,7 @@
+Budgets for 2026-01:
+  rent         $1800.00
+  groceries    $400.00
+  shopping     $300.00
+  utilities    $250.00
+  food         $200.00
+  transport    $150.00

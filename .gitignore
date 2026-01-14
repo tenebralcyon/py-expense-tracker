@@ -11,7 +11,9 @@ venv/
 # Local databases / exports / outputs
 *.db
 exports/
-outputs/
+outputs/*
+!outputs/
+!outputs/*.txt
 
 # OS / editor
 .DS_Store

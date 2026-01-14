@@ -1,0 +1,9 @@
+Total: $2066.24
+
+By category:
+  rent         $1800.00
+  utilities    $120.00
+  transport    $52.99
+  shopping     $39.20
+  groceries    $32.10
+  food         $21.95
