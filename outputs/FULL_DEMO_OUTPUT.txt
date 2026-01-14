@@ -1,0 +1,59 @@
+===== EXPENSE TRACKER DEMO OUTPUT ===== 
+ 
+--- RULE LIST --- 
+Rules (higher priority wins):
+  4   priority=100  'rent' -> rent
+  5   priority=20   'hydro' -> utilities
+  1   priority=10   'starbucks' -> food
+  6   priority=8    'whole foods' -> groceries
+  2   priority=5    'amazon' -> shopping
+  3   priority=5    'uber' -> transport
+ 
+--- LIST (LIMIT 50) --- 
+ID  Date        Amount    Category    Note
+--  ----------  --------  ----------  ----
+9   2026-01-15     45.00  transport   Uber Eats dinner
+8   2026-01-12      9.50  food        Starbucks snack
+7   2026-01-12    120.00  utilities   BC Hydro electricity bill
+6   2026-01-10     32.10  groceries   Whole Foods groceries
+5   2026-01-06    -15.00  shopping    Amazon refund
+4   2026-01-05   1800.00  rent        Rent payment January
+3   2026-01-03      7.99  transport   UBER trip downtown
+2   2026-01-03     54.20  shopping    Amazon Marketplace order
+1   2026-01-02     12.45  food        Starbucks coffee
+ 
+--- BUDGETS (2026-01) --- 
+Budgets for 2026-01:
+  rent         $1800.00
+  groceries    $400.00
+  shopping     $300.00
+  utilities    $250.00
+  food         $200.00
+  transport    $150.00
+ 
+--- TOTALS (ALL TIME) --- 
+Total: $2066.24
+
+By category:
+  rent         $1800.00
+  utilities    $120.00
+  transport    $52.99
+  shopping     $39.20
+  groceries    $32.10
+  food         $21.95
+ 
+--- TOTALS (2026-01) WITH BUDGET COMPARISON --- 
+Total for 2026-01: $2066.24
+
+By category:
+  rent         $1800.00   (budget $1800.00, remaining $0.00 -> OK)
+  utilities    $120.00   (budget $250.00, remaining $130.00 -> OK)
+  transport    $52.99   (budget $150.00, remaining $97.01 -> OK)
+  shopping     $39.20   (budget $300.00, remaining $260.80 -> OK)
+  groceries    $32.10   (budget $400.00, remaining $367.90 -> OK)
+  food         $21.95   (budget $200.00, remaining $178.05 -> OK)
+ 
+--- EXPORT (2026-01) --- 
+Exported 2026-01 to: C:\Users\nzabu\OneDrive\×ÀÃæ\py-expense-tracker\exports\export_2026-01.csv
+ 
+===== END DEMO ===== 
